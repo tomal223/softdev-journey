@@ -1,0 +1,13 @@
+1. What is the Feasibility Study of the SDLC model & why is this important?
+Answer: Feasibility study is a very important step of the SDLC model that helps us assess the viability of the project before committing significant resources to its development. It is very important because it provides very crucial informations about the potential risks, costs and benefits of a project. This can help save time and resources in the long run and increase the chances of success for the project. Additionally, a feasibility study can also help identify any technical, economic, or organizational constraints that may impact the project's success. In conclusion it is very helpfull to improve the success rate of a project.
+
+2. Write 5 advantages of Agile methodology.
+Answer: 1. Flexibility
+  2. Increased Productivity
+  3. Improved Quality
+  4. Easy Maintainance
+  5. Continuos Development
+
+3. Write short notes on SDLC model phase.
+Answer: There are 6 phases in SDLC model. They are Analysis, Design, Development, Testing, Deployment and Maintainance.
+Every phase of SDLC model is important to make a business successfull product. By following all of the phases it improves the Productivity, Quality, Benefits and decreases the cost and time. It becomes more easy to maintain the Continuos development of the product.
